@@ -16,7 +16,7 @@ I created Fake Sites to challenge conventional web design norms and to showcase 
 
 ### Alex Williams
 
-![Alex Williams](https://www.fakesites.jonspurling.ca/static/media/david-lee.e630dda43091b63cee78.png)
+![Alex Williams](https://www.fakesites.jonspurling.ca/static/media/alex-williams.a5d839f885ec4e643922.png)
 
 **Alex Williams** is a budding author who wanted to create an online presence for his latest book. His website needed to be simple yet elegant, showcasing his writing skills and providing a platform for readers to learn more about his work. The design features a clean layout with excerpts from his book and reviews from readers. A contact page with links to his social media accounts allows visitors to connect with him online.
 
@@ -34,7 +34,7 @@ I created Fake Sites to challenge conventional web design norms and to showcase 
 
 ### David Lee
 
-![David Lee](./assets/project-images/david-lee.png)
+![David Lee](https://www.fakesites.jonspurling.ca/static/media/david-lee.e630dda43091b63cee78.png)
 
 **David Lee** is a globetrotting photographer who captures the beauty of the world through his lens. His website needed to be as captivating as his photos, providing a seamless experience for visitors to explore his portfolio and read about his adventures. The design includes a sleek, minimalist portfolio section and an engaging blog that highlights his travel experiences.
 
