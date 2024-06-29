@@ -59,4 +59,4 @@ Feel free to reach out and connect with me:
 - **LinkedIn:** [Jonathan Spurling](https://linkedin.com/in/jonspurling)
 - **Website:** [Fake Sites](https://fakesites.jonspurling.ca)
 
-&copy; {new Date().getFullYear()} - [Jonathan Spurling](https://jonspurling.ca)
+&copy; 2023 - [Jonathan Spurling](https://jonspurling.ca)
