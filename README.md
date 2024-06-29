@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Fake Sites: Where Imagination Meets Innovation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Fake Sites, a creative initiative designed to push the boundaries of web development and design. Dive into our unique portfolio of conceptual projects that showcase the potential of digital experiences.
 
-## Available Scripts
+![Fake Sites Logo](./assets/FakeSites%20Logo.webp)
 
-In the project directory, you can run:
+## What is Fake Sites?
 
-### `npm start`
+Fake Sites is a project that involves creating fictional personas and businesses, each with their own distinct identity and set of requirements. The goal is to explore innovative web solutions and demonstrate what’s possible when creativity is combined with cutting-edge technology.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Why I Created It
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I created Fake Sites to challenge conventional web design norms and to showcase the limitless potential of digital storytelling. By crafting these imaginative scenarios, I aim to inspire others in the field and provide a comprehensive portfolio that illustrates a wide range of web development capabilities. Each project within Fake Sites serves as a case study in solving unique digital challenges with creative solutions.
 
-### `npm test`
+## Meet Our Personas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Alex Williams
 
-### `npm run build`
+![Alex Williams](./assets/project-images/alex-williams.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Alex Williams** is a budding author who wanted to create an online presence for his latest book. His website needed to be simple yet elegant, showcasing his writing skills and providing a platform for readers to learn more about his work. The design features a clean layout with excerpts from his book and reviews from readers. A contact page with links to his social media accounts allows visitors to connect with him online.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Requirements:**
+- A clean presentation for his new book, with excerpts and reviews.
+- A contact page with his social media accounts.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Tech Stack:**
+- HTML
+- CSS
 
-### `npm run eject`
+**Links:**
+- [Live Site](https://alex-williams.jonspurling.ca)
+- [GitHub](https://github.com/happyCoder85/FakeSites/tree/main/Author-AlexWilliams)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### David Lee
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![David Lee](./assets/project-images/david-lee.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**David Lee** is a globetrotting photographer who captures the beauty of the world through his lens. His website needed to be as captivating as his photos, providing a seamless experience for visitors to explore his portfolio and read about his adventures. The design includes a sleek, minimalist portfolio section and an engaging blog that highlights his travel experiences.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Requirements:**
+- A visually stunning portfolio to display his photography.
+- UI Animations to provide an enhanced aesthetic.
+- A blog to share stories and insights from his world travels.
 
-## Learn More
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Links:**
+- [Live Site](https://david-lee.jonspurling.ca)
+- [GitHub](https://github.com/happyCoder85/FakeSites/tree/main/Photographer-DavidLee)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact
 
-### Code Splitting
+Feel free to reach out and connect with me:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- **LinkedIn:** [Jonathan Spurling](https://linkedin.com/in/jonspurling)
+- **Website:** [Fake Sites](https://fakesites.jonspurling.ca)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+&copy; {new Date().getFullYear()} - [Jonathan Spurling](https://jonspurling.ca)
