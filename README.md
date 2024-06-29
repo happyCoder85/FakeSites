@@ -2,7 +2,7 @@
 
 Welcome to Fake Sites, a creative initiative designed to push the boundaries of web development and design. Dive into our unique portfolio of conceptual projects that showcase the potential of digital experiences.
 
-![Fake Sites Logo](./assets/FakeSites%20Logo.webp)
+![Fake Sites Logo](./src/assets/FakeSites Logo.webp)
 
 ## What is Fake Sites?
 
@@ -16,7 +16,7 @@ I created Fake Sites to challenge conventional web design norms and to showcase 
 
 ### Alex Williams
 
-![Alex Williams](./assets/project-images/alex-williams.png)
+![Alex Williams](./src/assets/project-images/alex-williams.png)
 
 **Alex Williams** is a budding author who wanted to create an online presence for his latest book. His website needed to be simple yet elegant, showcasing his writing skills and providing a platform for readers to learn more about his work. The design features a clean layout with excerpts from his book and reviews from readers. A contact page with links to his social media accounts allows visitors to connect with him online.
 
